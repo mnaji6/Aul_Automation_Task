@@ -1,0 +1,23 @@
+{
+  "name": "aul_automation_task",
+  "version": "1.0.0",
+  "description": "Purchase a device from an online retailer",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^7.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnaji6/Aul_Automation_Task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnaji6/Aul_Automation_Task/issues"
+  },
+  "homepage": "https://github.com/mnaji6/Aul_Automation_Task#readme"
+}
