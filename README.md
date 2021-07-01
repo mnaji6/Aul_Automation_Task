@@ -32,8 +32,7 @@ run: `npx cypress open`
 
 Please note that I had trouble running the automation tasks against google store, due to some security issues.
 I have tried different workarounds, browsers, cypress versions. 
-it ended up that google store is blocking cypress automation.
+it ended up that google store is blocking cypress automation and I am keeping getting blank screen after pickng the region.
 so I had to do the same tests on different store, I used amazon store.
 
 An email has been sent earlier to Esmat describing the issue.
-
