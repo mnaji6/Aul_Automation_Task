@@ -2,6 +2,8 @@
 
 This repo contains tests written in Cypress to verify purchasing a device from Amazon store.
 
+* With project structure based on the page object model design pattern - inspired from my work experience in protractor.
+
 The test case covers the following steps:
 
 ##### 1. Login with a valid email address/password to Amazon store.
