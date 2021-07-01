@@ -7,7 +7,7 @@ The test case covers the following steps:
 ##### 1. Login with a valid email address/password to Amazon store.
 ##### 2. Search for a certain product defined in the application configuration.
 ##### 3. Select the first product from the search results.
-##### 4. Add selected product to the shopping cart.
+##### 4. Add the selected product to the shopping cart.
 ##### 5. Proceed to checkout page.
 ##### 6. Verify that error messages appear upon entering an empty shipping address.
 ##### 7. Verify that error messages disappear after confirming a valid US shipping address
@@ -32,7 +32,7 @@ run: `npx cypress open`
 
 Please note that I had trouble running the automation tasks against google store, due to some security issues.
 I have tried different workarounds, browsers, cypress versions. 
-it ended up that google store is blocking cypress automation and I am keeping getting blank screen after pickng the region.
-so I had to do the same tests on different store, I used amazon store.
+it ended up that google store is blocking cypress automation and I am keep getting blank screen after pickng the region.
+so I had to do the same tests on a different store, I used amazon store.
 
 An email has been sent earlier to Esmat describing the issue.
