@@ -25,4 +25,15 @@ run: `npx cypress open`
 
 ---
 
-![Test Run Video]()
+![Test Run Video](uploading)
+
+
+## Note for reviewers:
+
+Please note that I had trouble running the automation tasks against google store, due to some security issues.
+I have tried different workarounds, browsers, cypress versions. 
+it ended up that google store is blocking cypress automation.
+so I had to do the same tests on different store, I used amazon store.
+
+An email has been sent earlier to Esmat describing the issue.
+
