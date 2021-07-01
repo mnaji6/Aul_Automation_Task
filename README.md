@@ -25,8 +25,7 @@ run: `npx cypress open`
 
 ---
 
-![Test Run Video](uploading)
-
+![Test Run Video] - uploading
 
 ## Note for reviewers:
 
