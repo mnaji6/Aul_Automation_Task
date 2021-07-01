@@ -25,7 +25,7 @@ run: `npx cypress open`
 
 ---
 
-![Test Run Video] - uploading
+![Test Run Video] (https://www.dropbox.com/s/t9u8pl6xorteico/2021-07-01-21-01-59.mp4?dl=0)
 
 ## Note for reviewers:
 
