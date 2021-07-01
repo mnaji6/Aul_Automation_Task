@@ -3,8 +3,8 @@
     "viewportHeight": 513,
     "baseUrl": "https://www.amazon.com/",
     "login": {
-        "email": "",
-        "password": ""
+        "email": "mahanajee109@gmail.com",
+        "password": "testPass#1"
     },
     "testData": {
         "fullName": "Maha Naji",
